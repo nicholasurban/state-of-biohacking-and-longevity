@@ -24,6 +24,11 @@ The survey is self-selecting and reflects people who chose to participate throug
 
 The CSV excludes direct submission metadata and higher-risk fields, including IP address, user agent, raw metadata, derived totals, and free-text bonus questions. Multi-select answers are joined with `; `.
 
+## DOI & Mirrors
+
+- DOI (always latest version): https://doi.org/10.5281/zenodo.20320083
+- Hugging Face: https://huggingface.co/datasets/nick-urban/state-of-biohacking-and-longevity
+
 ## Citation
 
 If you use this dataset, cite:
